@@ -132,7 +132,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ));
         } else {
           icons.add(Icon(
-            Icons.favorite_border,
+            Icons.donut_large,
             color: Colors.black38,
           ));
         }
